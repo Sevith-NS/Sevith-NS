@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:sevithns@gmail.com"><img src="https://img.shields.io/badge/Email-sevithns%40gmail.com-26619C?style=for-the-badge&logo=gmail&logoColor=EFE9DD" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sevith-s-079063273/"><img src="https://img.shields.io/badge/LinkedIn-Sevith-0B1B3F?style=for-the-badge&logo=linkedin&logoColor=EFE9DD" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/sevith_n"><img src="https://img.shields.io/badge/Instagram-@sevith__n-26619C?style=for-the-badge&logo=instagram&logoColor=EFE9DD" alt="Instagram" /></a>
+  <a href="https://instagram.com/sevith_s"><img src="https://img.shields.io/badge/Instagram-@sevith__n-26619C?style=for-the-badge&logo=instagram&logoColor=EFE9DD" alt="Instagram" /></a>
   <a href="https://drive.google.com/file/d/11E0TG7xOsdtzW9pANEm7BHBrhDYCTpmT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-0B1B3F?style=for-the-badge&logo=googledrive&logoColor=EFE9DD" alt="Resume" /></a>
 </p>
 
